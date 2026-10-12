@@ -1,4 +1,4 @@
-# Junction Flow, Software Engineering (CS261) Group Project, University of Warwick
+# Junction Flow
 
 ## Tech
 
